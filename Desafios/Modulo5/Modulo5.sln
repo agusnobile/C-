@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio1", "Desafio1\Desafio1.csproj", "{50AB9C73-A64A-4468-A775-57AEEAC4DF8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio2", "Desafio2\Desafio2.csproj", "{932A7BC7-23CF-480B-80C8-7FDA9D149E89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio3", "Desafio3\Desafio3.csproj", "{CE219092-06DE-4F04-9977-6E8D22F9334E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50AB9C73-A64A-4468-A775-57AEEAC4DF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50AB9C73-A64A-4468-A775-57AEEAC4DF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50AB9C73-A64A-4468-A775-57AEEAC4DF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50AB9C73-A64A-4468-A775-57AEEAC4DF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{932A7BC7-23CF-480B-80C8-7FDA9D149E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932A7BC7-23CF-480B-80C8-7FDA9D149E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932A7BC7-23CF-480B-80C8-7FDA9D149E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932A7BC7-23CF-480B-80C8-7FDA9D149E89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE219092-06DE-4F04-9977-6E8D22F9334E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE219092-06DE-4F04-9977-6E8D22F9334E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE219092-06DE-4F04-9977-6E8D22F9334E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE219092-06DE-4F04-9977-6E8D22F9334E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25B85F0B-750C-4BFF-AB61-5104883CA3E3}
+	EndGlobalSection
+EndGlobal

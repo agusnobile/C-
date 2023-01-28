@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio1", "Desafio1\Desafio1.csproj", "{D4F56C6E-D2A1-4C48-9DC3-D12CA7ABDB56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio2", "Desafio2\Desafio2.csproj", "{DC24680C-7B62-491C-A079-5FDB0C178B8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio3", "Desafio3\Desafio3.csproj", "{EAD40DE7-B442-44C7-9A67-EDFD0C947129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4F56C6E-D2A1-4C48-9DC3-D12CA7ABDB56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F56C6E-D2A1-4C48-9DC3-D12CA7ABDB56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F56C6E-D2A1-4C48-9DC3-D12CA7ABDB56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F56C6E-D2A1-4C48-9DC3-D12CA7ABDB56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC24680C-7B62-491C-A079-5FDB0C178B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC24680C-7B62-491C-A079-5FDB0C178B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC24680C-7B62-491C-A079-5FDB0C178B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC24680C-7B62-491C-A079-5FDB0C178B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD40DE7-B442-44C7-9A67-EDFD0C947129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD40DE7-B442-44C7-9A67-EDFD0C947129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD40DE7-B442-44C7-9A67-EDFD0C947129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD40DE7-B442-44C7-9A67-EDFD0C947129}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77238456-B6EA-4275-A1F3-EA60E6BF7D57}
+	EndGlobalSection
+EndGlobal

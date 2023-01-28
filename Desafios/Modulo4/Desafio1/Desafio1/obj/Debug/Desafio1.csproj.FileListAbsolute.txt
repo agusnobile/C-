@@ -1,0 +1,8 @@
+C:\Users\anobile\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VSCode-win32-x64-1.74.1\C#\Modulo4\Desafio1\Desafio1\bin\Debug\Desafio1.exe.config
+C:\Users\anobile\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VSCode-win32-x64-1.74.1\C#\Modulo4\Desafio1\Desafio1\bin\Debug\Desafio1.exe
+C:\Users\anobile\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VSCode-win32-x64-1.74.1\C#\Modulo4\Desafio1\Desafio1\bin\Debug\Desafio1.pdb
+C:\Users\anobile\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VSCode-win32-x64-1.74.1\C#\Modulo4\Desafio1\Desafio1\obj\Debug\Desafio1.csproj.AssemblyReference.cache
+C:\Users\anobile\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VSCode-win32-x64-1.74.1\C#\Modulo4\Desafio1\Desafio1\obj\Debug\Desafio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\anobile\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VSCode-win32-x64-1.74.1\C#\Modulo4\Desafio1\Desafio1\obj\Debug\Desafio1.csproj.CoreCompileInputs.cache
+C:\Users\anobile\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VSCode-win32-x64-1.74.1\C#\Modulo4\Desafio1\Desafio1\obj\Debug\Desafio1.exe
+C:\Users\anobile\OneDrive - ANDREANI LOGISTICA SA\Escritorio\VSCode-win32-x64-1.74.1\C#\Modulo4\Desafio1\Desafio1\obj\Debug\Desafio1.pdb
